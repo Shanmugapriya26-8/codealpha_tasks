@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Hi, I'm shanmugapriya</h1>
+    <p>Web Developer | Designer | Learner</p>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#skills">Skills</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      I'm a passionate web developer currently learning front-end technologies. I love building
+      responsive, interactive websites and continuously improving my skills.
+    </p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul class="skills-list">
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>React (basic)</li>
+      <li>Git & GitHub</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project-card">
+      <h3>Image Gallery</h3>
+      <p>A responsive image gallery built with HTML, CSS, and JavaScript.</p>
+    </div>
+    <div class="project-card">
+      <h3>Calculator</h3>
+      <p>A simple calculator that performs basic arithmetic operations.</p>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <p>Email: <a href="mailto: shanmugapriya2684@email.com">shanmugapriya 2684@email.com</a></p>
+    <p>LinkedIn: <a href="#">linkedin.com/in/shanmugapriya</a></p>
+    <p>GitHub: <a href="#">github.com/shanmugapriya</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 [shanmugapriya] — All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
